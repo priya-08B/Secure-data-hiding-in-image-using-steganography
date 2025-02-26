@@ -10,9 +10,6 @@ ABSTRACT :
 
 TECHNOLOGY USED :
 
-In this Project , The  using Libraries and Platforms are:
-
-
 Libraries 
 
 OpenCV – For image processing tasks  and handling images files .

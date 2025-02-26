@@ -8,14 +8,26 @@
 . Unlike traditional encryption methods that make data visibly scrambled, steganography hides data within an image, making it undetectable to the human eye. This adds a layer of security through obscurity.
 
 In this Project , The  using Libraries and Platforms are:
+
+
 Libraries 
+
 OpenCV – For image processing tasks  and handling images files .
+
 OS – Used for opening the image file after encryption.
+
+
 Platforms
+
 Windows and Linux
+
+
 Tools 
+
 Visual Studio Code – Code editor for development
+
 Pycharm - For running the scripts
+
 Pip - For Installing dependencies
 
 
